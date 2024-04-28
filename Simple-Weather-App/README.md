@@ -1,10 +1,10 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+  # "Simple Weather Application using HTML, CSS &amp; JavaScript"
 
-## Overview of Weather App
+# Overview of Weather App
 
-It's a  Simple Weather Application is a user-friendly web-based tool created with HTML, CSS, and &amp; JavaScript. Its primary purpose is to provide users with quick access to current weather conditions and forecasts for their location or any other specified location. Here's a brief overview of its key features and functionalities:
+It's a  Simple Weather Application is a user-friendly web-based tool created with HTML, CSS,  &amp; JavaScript. Its primary purpose is to provide users with quick access to current weather conditions and forecasts for their location or any other specified location. Here's a brief overview of its key features and functionalities:
 
-## Minimalist Design: 
+# Minimalist Design: 
 
 The app employs a clean and minimalist design, focusing on essential weather information without unnecessary clutter.
 
@@ -38,6 +38,6 @@ Users can interact with the app by selecting different locations, toggling betwe
 It includes robust error handling mechanisms to address scenarios such as invalid input, network errors, or unavailability of weather data.
 Customization Options: While maintaining simplicity, the app may offer basic customization options, allowing users to adjust settings according to their preferences.
 
-
+![weather app](https://github.com/styloraushan/Simple-Weather-App/assets/142259385/e0192bac-a33e-414b-9a41-7a3832cef4aa)
 
 
